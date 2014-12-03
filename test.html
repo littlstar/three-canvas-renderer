@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <title>three-canvas-renderer</title>
+  </head>
+  <body>
+    <script src='build/build.js'></script>
+    <script>
+      var three = require('threejs');
+      require('three-canvas-renderer')(three);
+      var CanvasRenderer = three.CanvasRenderer;
+      console.log(CanvasRenderer);
+    </script>
+  </body>
+</html>
