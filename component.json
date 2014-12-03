@@ -1,5 +1,6 @@
 {
   "name": "three-canvas-renderer",
+  "version": "0.0.1",
   "repo": "littlstar/three-canvas-renderer",
   "description": "three.js canvas renderer",
   "license": "MIT",
