@@ -5,9 +5,10 @@
   "description": "three.js canvas renderer",
   "license": "MIT",
   "main": "index.js",
-  "scripts": [
-    "index.js"
-  ],
+  "scripts": ["index.js"],
+  "dependencies": {
+    "littlstar/three-projector-renderer": "*"
+  },
   "development": {
     "components/three.js": "*"
   }

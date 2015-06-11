@@ -7,6 +7,7 @@
  */
 
 module.exports = function(THREE){
+  require('three-projector-renderer')(THREE);
 
 /**
  * @author mrdoob / http://mrdoob.com/
