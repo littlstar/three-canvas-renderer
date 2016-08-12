@@ -1,0 +1,19 @@
+{
+  "name": "three-canvas-renderer",
+  "version": "1.0.0",
+  "description": "three.js canvas renderer component",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/littlstar/three-canvas-renderer.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "browserify": "^13.1.0",
+    "three": "^0.79.0"
+  },
+  "dependencies": {
+    "three-projector-renderer": "^1.0.1"
+  }
+}
