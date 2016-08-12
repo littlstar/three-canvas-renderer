@@ -5,15 +5,13 @@
 
 ## Installation
 
-  Install with [component(1)](http://component.io):
-
-    $ component install littlstar/three-canvas-renderer
+    $ npm install @littlstar/three-canvas-renderer
 
 ## Usage
 
 ```js
 var three = require('threejs');
-require('three-canvas-renderer')(three);
+require('@littlstar/three-canvas-renderer')(three);
 var CanvasRenderer = three.CanvasRenderer;
 console.log(CanvasRenderer);
 ```
