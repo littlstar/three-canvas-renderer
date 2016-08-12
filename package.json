@@ -1,5 +1,5 @@
 {
-  "name": "three-canvas-renderer",
+  "name": "@littlstar/three-canvas-renderer",
   "version": "1.0.0",
   "description": "three.js canvas renderer component",
   "main": "index.js",
